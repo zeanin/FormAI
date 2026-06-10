@@ -105,6 +105,10 @@ docker build -t formai .
 
 ---
 
-## 📜 Development Policy
+## 📄 License
 
-* **Language Policy:** All code, comments, database schemas, API responses, and user interface strings within this project must be written strictly in **English** to ensure international compatibility and codebase consistency.
+This project is licensed under the **Apache License 2.0 with Commons Clause Condition v1.0**. 
+
+Under the Commons Clause condition, you are free to download, run, modify, and distribute the code for personal or internal use, but you **may not sell the software or use it to provide commercial hosting, cloud, or Software-as-a-Service (SaaS) platforms** to third parties.
+
+See the [LICENSE](file:///Users/landaa/Workspaces/formai/FormAI/LICENSE) file for the full terms and details.
