@@ -1,10 +1,10 @@
-# Formai
+# FormAI
 
 > **AI-Native, Schema-Driven No-Code Application Platform**
 
-Formai is a next-generation platform for building full-stack enterprise applications dynamically. Driven by AI and dynamic runtime schemas, it enables developers and teams to define, deploy, and scale complex applications through natural language and visual composition—without rebuilding, compiling, or redeploying code.
+FormAI is a next-generation platform for building full-stack enterprise applications dynamically. Driven by AI and dynamic runtime schemas, it enables developers and teams to define, deploy, and scale complex applications through natural language and visual composition—without rebuilding, compiling, or redeploying code.
 
-![Formai System Creation](./assets/formai_system_creation_ui.png)
+![FormAI System Creation](./assets/formai_system_creation_ui.png)
 
 ---
 
